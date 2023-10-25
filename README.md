@@ -16,7 +16,7 @@ The default manager package is npm.
 
 ## Demo
 
-![demo](./617080.gif)
+[![asciicast](https://asciinema.org/a/wXIhL2nZepQwgPfk6Y0Lcwe6v.svg)](https://asciinema.org/a/wXIhL2nZepQwgPfk6Y0Lcwe6v)
 
 ## Uninstallation
 
